@@ -9,6 +9,10 @@ app.get("/", (req, res) => {
  res.json({mensaje: "Bienvenidos a nuestra API"});
 });
 
+app.get("/api", (req, res) => {
+ res.json({nombre: "Belén", email:"bln@gmail.com"});
+});
+
 app.listen(PORT, () => {
  console.log(`Servidor iniciado en puerto ${PORT}`);
 });
