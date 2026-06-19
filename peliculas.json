@@ -1,0 +1,632 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Inception",
+      "año": 2010,
+      "genero": "Ciencia Ficción",
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "sinopsis": "Un ladrón especializado en extraer secretos del subconsciente a través de los sueños recibe una misión imposible: implantar una idea en la mente de alguien.",
+      "duracion": 148,
+      "poster": "/img/peliculas/p1.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "El Padrino",
+      "año": 1972,
+      "genero": "Drama",
+      "director": "Francis Ford Coppola",
+      "rating": 9.2,
+      "sinopsis": "La historia de la familia Corleone y su poderoso imperio mafioso en Nueva York.",
+      "duracion": 175,
+      "poster": "/img/peliculas/p2.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Volver al Futuro",
+      "año": 1985,
+      "genero": "Ciencia Ficción",
+      "director": "Robert Zemeckis",
+      "rating": 8.5,
+      "sinopsis": "Un adolescente viaja accidentalmente al pasado en un DeLorean modificado por su excéntrico amigo científico.",
+      "duracion": 116,
+      "poster": "/img/peliculas/p3.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Toy Story",
+      "año": 1995,
+      "genero": "Animación",
+      "director": "John Lasseter",
+      "rating": 8.3,
+      "sinopsis": "Los juguetes de un niño cobran vida cuando él no está y deben enfrentar la llegada de un nuevo juguete espacial.",
+      "duracion": 81,
+      "poster": "/img/peliculas/p4.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "El Caballero Oscuro",
+      "año": 2008,
+      "genero": "Acción",
+      "director": "Christopher Nolan",
+      "rating": 9,
+      "sinopsis": "Batman se enfrenta al Joker, un criminal que sumerge a Gotham en el caos.",
+      "duracion": 152,
+      "poster": "/img/peliculas/p5.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Pulp Fiction",
+      "año": 1994,
+      "genero": "Crimen",
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "sinopsis": "Varias historias entrelazadas de criminales, boxeadores y gangsters en Los Ángeles.",
+      "duracion": 154,
+      "poster": "/img/peliculas/p6.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+      "año": 2001,
+      "genero": "Fantasía",
+      "director": "Peter Jackson",
+      "rating": 8.8,
+      "sinopsis": "Un humilde hobbit emprende una peligrosa misión para destruir un anillo de poder maléfico.",
+      "duracion": 178,
+      "poster": "/img/peliculas/p7.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Forrest Gump",
+      "año": 1994,
+      "genero": "Drama",
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "sinopsis": "La vida de un hombre simple pero bondadoso que accidentalmente influye en eventos históricos clave.",
+      "duracion": 142,
+      "poster": "/img/peliculas/p8.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Matrix",
+      "año": 1999,
+      "genero": "Ciencia Ficción",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 8.7,
+      "sinopsis": "Un programador descubre que la realidad es una simulación creada por máquinas inteligentes.",
+      "duracion": 136,
+      "poster": "/img/peliculas/p9.png"
+    },
+    {
+      "id": 10,
+      "titulo": "Parasite",
+      "año": 2019,
+      "genero": "Thriller",
+      "director": "Bong Joon-ho",
+      "rating": 8.5,
+      "sinopsis": "Una familia pobre se infiltra en la vida de una familia rica con consecuencias inesperadas.",
+      "duracion": 132,
+      "poster": "/img/peliculas/p10.png"
+    },
+    {
+      "id": 11,
+      "titulo": "Interestelar",
+      "año": 2014,
+      "genero": "Ciencia Ficción",
+      "director": "Christopher Nolan",
+      "rating": 8.7,
+      "sinopsis": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+      "duracion": 169,
+      "poster": "/img/peliculas/p11.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "La Vida es Bella",
+      "año": 1997,
+      "genero": "Drama",
+      "director": "Roberto Benigni",
+      "rating": 8.6,
+      "sinopsis": "Un padre judío usa su imaginación para proteger a su hijo de los horrores de un campo de concentración.",
+      "duracion": 116,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=La%20Vida%20es%20Bella"
+    },
+    {
+      "id": 13,
+      "titulo": "Gladiador",
+      "año": 2000,
+      "genero": "Acción",
+      "director": "Ridley Scott",
+      "rating": 8.5,
+      "sinopsis": "Un general romano traicionado busca venganza como gladiador en el Coliseo.",
+      "duracion": 155,
+      "poster": "/img/peliculas/p13.png"
+    },
+    {
+      "id": 14,
+      "titulo": "Buscando a Nemo",
+      "año": 2003,
+      "genero": "Animación",
+      "director": "Andrew Stanton",
+      "rating": 8.2,
+      "sinopsis": "Un pez payaso cruza el océano para rescatar a su hijo capturado por un buceador.",
+      "duracion": 100,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Buscando%20a%20Nemo"
+    },
+    {
+      "id": 15,
+      "titulo": "El Club de la Lucha",
+      "año": 1999,
+      "genero": "Drama",
+      "director": "David Fincher",
+      "rating": 8.8,
+      "sinopsis": "Un empleado de oficina insomne y un carismático vendedor de jabón fundan un club de lucha clandestino.",
+      "duracion": 139,
+      "poster": "/img/peliculas/p15.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "Jurassic Park",
+      "año": 1993,
+      "genero": "Aventura",
+      "director": "Steven Spielberg",
+      "rating": 8.2,
+      "sinopsis": "Científicos crean un parque temático con dinosaurios clonados que terminan escapando.",
+      "duracion": 127,
+      "poster": "/img/peliculas/p16.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "El Silencio de los Inocentes",
+      "año": 1991,
+      "genero": "Thriller",
+      "director": "Jonathan Demme",
+      "rating": 8.6,
+      "sinopsis": "Una joven agente del FBI busca la ayuda de un brillante asesino caníbal para atrapar a otro asesino serial.",
+      "duracion": 118,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=El%20Silencio%20de%20los%20Inocentes"
+    },
+    {
+      "id": 18,
+      "titulo": "Harry Potter y la Piedra Filosofal",
+      "año": 2001,
+      "genero": "Fantasía",
+      "director": "Chris Columbus",
+      "rating": 7.6,
+      "sinopsis": "Un niño descubre que es un mago y comienza su educación en el colegio Hogwarts.",
+      "duracion": 152,
+      "poster": "/img/peliculas/p18.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "Titanic",
+      "año": 1997,
+      "genero": "Romance",
+      "director": "James Cameron",
+      "rating": 7.9,
+      "sinopsis": "Una historia de amor entre una joven de clase alta y un artista pobre a bordo del legendario Titanic.",
+      "duracion": 194,
+      "poster": "/img/peliculas/p19.png"
+    },
+    {
+      "id": 20,
+      "titulo": "Spider-Man: Un Nuevo Universo",
+      "año": 2018,
+      "genero": "Animación",
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "rating": 8.4,
+      "sinopsis": "El joven Miles Morales asume el manto de Spider-Man y cruza dimensiones con otros arácnidos.",
+      "duracion": 117,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=Spider-Man%3A%20Un%20Nuevo%20Universo"
+    },
+    {
+      "id": 21,
+      "titulo": "El Resplandor",
+      "año": 1980,
+      "genero": "Terror",
+      "director": "Stanley Kubrick",
+      "rating": 8.4,
+      "sinopsis": "Un escritor y su familia quedan atrapados en un hotel vacío que desata la locura.",
+      "duracion": 146,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=El%20Resplandor"
+    },
+    {
+      "id": 22,
+      "titulo": "Cadena Perpetua",
+      "año": 1994,
+      "genero": "Drama",
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "sinopsis": "Un banquero condenado por un crimen que no cometió encuentra esperanza en la amistad dentro de la prisión.",
+      "duracion": 142,
+      "poster": "/img/peliculas/p22.jpg"
+    },
+    {
+      "id": 23,
+      "titulo": "Los Vengadores",
+      "año": 2012,
+      "genero": "Acción",
+      "director": "Joss Whedon",
+      "rating": 8,
+      "sinopsis": "Un grupo de superhéroes se une para defender la Tierra de una invasión alienígena.",
+      "duracion": 143,
+      "poster": "/img/peliculas/p23.jpg"
+    },
+    {
+      "id": 24,
+      "titulo": "Mi Vecino Totoro",
+      "año": 1988,
+      "genero": "Animación",
+      "director": "Hayao Miyazaki",
+      "rating": 8.2,
+      "sinopsis": "Dos niñas se mudan al campo y descubren espíritus del bosque, incluyendo al gigante y amigable Totoro.",
+      "duracion": 86,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Mi%20Vecino%20Totoro"
+    },
+    {
+      "id": 25,
+      "titulo": "Scarface",
+      "año": 1983,
+      "genero": "Crimen",
+      "director": "Brian De Palma",
+      "rating": 8.3,
+      "sinopsis": "Un emigrante cubano asciende en el mundo del narcotráfico en Miami hasta alcanzar el poder y la paranoia.",
+      "duracion": 170,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Scarface"
+    },
+    {
+      "id": 26,
+      "titulo": "Origen",
+      "año": 2010,
+      "genero": "Ciencia Ficción",
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "sinopsis": "Un ladrón especializado en robar secretos del subconsciente debe hacer lo imposible: plantar una idea.",
+      "duracion": 148,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Origen"
+    },
+    {
+      "id": 27,
+      "titulo": "El Rey León",
+      "año": 1994,
+      "genero": "Animación",
+      "director": "Roger Allers, Rob Minkoff",
+      "rating": 8.5,
+      "sinopsis": "Un joven león debe reclamar su lugar como rey de la sabana tras la muerte de su padre.",
+      "duracion": 88,
+      "poster": "/img/peliculas/p27.jpg"
+    },
+    {
+      "id": 28,
+      "titulo": "Schindler's List",
+      "año": 1993,
+      "genero": "Drama",
+      "director": "Steven Spielberg",
+      "rating": 9,
+      "sinopsis": "Un empresario alemán salva las vidas de más de mil judíos polacos durante el Holocausto.",
+      "duracion": 195,
+      "poster": "/img/peliculas/p28.jpg"
+    },
+    {
+      "id": 29,
+      "titulo": "Mad Max: Fury Road",
+      "año": 2015,
+      "genero": "Acción",
+      "director": "George Miller",
+      "rating": 8.1,
+      "sinopsis": "En un mundo postapocalíptico, Max se une a Furiosa para huir de un tirano en una persecución desenfrenada.",
+      "duracion": 120,
+      "poster": "/img/peliculas/p29.jpg"
+    },
+    {
+      "id": 30,
+      "titulo": "La La Land",
+      "año": 2016,
+      "genero": "Musical",
+      "director": "Damien Chazelle",
+      "rating": 8,
+      "sinopsis": "Un músico de jazz y una actriz se enamoran mientras persiguen sus sueños en Los Ángeles.",
+      "duracion": 128,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=La%20La%20Land"
+    },
+    {
+      "id": 31,
+      "titulo": "Alien: El Octavo Pasajero",
+      "año": 1979,
+      "genero": "Terror",
+      "director": "Ridley Scott",
+      "rating": 8.2,
+      "sinopsis": "La tripulación de una nave espacial es acechada por una criatura alienígena letal.",
+      "duracion": 117,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Alien%3A%20El%20Octavo%20Pasajero"
+    },
+    {
+      "id": 32,
+      "titulo": "Coco",
+      "año": 2017,
+      "genero": "Animación",
+      "director": "Lee Unkrich",
+      "rating": 8.4,
+      "sinopsis": "Un niño viaja a la Tierra de los Muertos para descubrir la historia musical de su familia.",
+      "duracion": 105,
+      "poster": "/img/peliculas/p32.jpg"
+    },
+    {
+      "id": 33,
+      "titulo": "El Gran Lebowski",
+      "año": 1998,
+      "genero": "Comedia",
+      "director": "Joel Coen",
+      "rating": 8.1,
+      "sinopsis": "Un vago fumador de marihuana es confundido con un millonario y se ve envuelto en una serie de absurdos eventos.",
+      "duracion": 117,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=El%20Gran%20Lebowski"
+    },
+    {
+      "id": 34,
+      "titulo": "Blade Runner 2049",
+      "año": 2017,
+      "genero": "Ciencia Ficción",
+      "director": "Denis Villeneuve",
+      "rating": 8,
+      "sinopsis": "Un nuevo blade runner descubre un secreto que podría sumir a la sociedad en el caos.",
+      "duracion": 164,
+      "poster": "/img/peliculas/p34.png"
+    },
+    {
+      "id": 35,
+      "titulo": "Rocky",
+      "año": 1976,
+      "genero": "Drama",
+      "director": "John G. Avildsen",
+      "rating": 8.1,
+      "sinopsis": "Un boxeador de poca monta recibe la oportunidad de su vida al enfrentar al campeón mundial de peso pesado.",
+      "duracion": 120,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Rocky"
+    },
+    {
+      "id": 36,
+      "titulo": "E.T. el Extraterrestre",
+      "año": 1982,
+      "genero": "Ciencia Ficción",
+      "director": "Steven Spielberg",
+      "rating": 7.9,
+      "sinopsis": "Un niño hace amistad con un alienígena abandonado en la Tierra y lo ayuda a regresar a su hogar.",
+      "duracion": 115,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=E.T.%20el%20Extraterrestre"
+    },
+    {
+      "id": 37,
+      "titulo": "El Exorcista",
+      "año": 1973,
+      "genero": "Terror",
+      "director": "William Friedkin",
+      "rating": 8.1,
+      "sinopsis": "Una niña es poseída por una entidad demoníaca y su madre busca ayuda de dos sacerdotes.",
+      "duracion": 122,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=El%20Exorcista"
+    },
+    {
+      "id": 38,
+      "titulo": "Django Sin Cadenas",
+      "año": 2012,
+      "genero": "Western",
+      "director": "Quentin Tarantino",
+      "rating": 8.4,
+      "sinopsis": "Un esclavo liberado se convierte en cazarrecompensas y busca rescatar a su esposa de un cruel terrateniente.",
+      "duracion": 165,
+      "poster": "/img/peliculas/p38.jpg"
+    },
+    {
+      "id": 39,
+      "titulo": "Los Increíbles",
+      "año": 2004,
+      "genero": "Animación",
+      "director": "Brad Bird",
+      "rating": 8,
+      "sinopsis": "Una familia de superhéroes retirados debe volver a la acción para salvar el mundo.",
+      "duracion": 115,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Los%20Incre%C3%ADbles"
+    },
+    {
+      "id": 40,
+      "titulo": "Seven: Los Siete Pecados Capitales",
+      "año": 1995,
+      "genero": "Thriller",
+      "director": "David Fincher",
+      "rating": 8.6,
+      "sinopsis": "Dos detectives persiguen a un asesino serial que basa sus crímenes en los siete pecados capitales.",
+      "duracion": 127,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Seven%3A%20Los%20Siete%20Pecados%20Capitales"
+    },
+    {
+      "id": 41,
+      "titulo": "La Máscara",
+      "año": 1994,
+      "genero": "Comedia",
+      "director": "Chuck Russell",
+      "rating": 6.9,
+      "sinopsis": "Un hombre tímido encuentra una máscara misteriosa que lo transforma en un ser alocado e irresistible.",
+      "duracion": 101,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=La%20M%C3%A1scara"
+    },
+    {
+      "id": 42,
+      "titulo": "Indiana Jones: En Busca del Arca Perdida",
+      "año": 1981,
+      "genero": "Aventura",
+      "director": "Steven Spielberg",
+      "rating": 8.4,
+      "sinopsis": "El arqueólogo Indiana Jones compite contra los nazis para encontrar el Arca de la Alianza.",
+      "duracion": 115,
+      "poster": "/img/peliculas/p42.jpg"
+    },
+    {
+      "id": 43,
+      "titulo": "Whiplash",
+      "año": 2014,
+      "genero": "Drama",
+      "director": "Damien Chazelle",
+      "rating": 8.5,
+      "sinopsis": "Un joven baterista aspira a la grandeza bajo la implacable tutela de un instructor de jazz abusivo.",
+      "duracion": 106,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Whiplash"
+    },
+    {
+      "id": 44,
+      "titulo": "El Viaje de Chihiro",
+      "año": 2001,
+      "genero": "Animación",
+      "director": "Hayao Miyazaki",
+      "rating": 8.6,
+      "sinopsis": "Una niña queda atrapada en un mundo espiritual y debe trabajar en una casa de baños para salvar a sus padres.",
+      "duracion": 125,
+      "poster": "/img/peliculas/p44.png"
+    },
+    {
+      "id": 45,
+      "titulo": "Trainspotting",
+      "año": 1996,
+      "genero": "Drama",
+      "director": "Danny Boyle",
+      "rating": 8.1,
+      "sinopsis": "Un grupo de jóvenes heroinómanos en Edimburgo intenta escapar de su adicción y encontrar un propósito.",
+      "duracion": 93,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=Trainspotting"
+    },
+    {
+      "id": 46,
+      "titulo": "John Wick",
+      "año": 2014,
+      "genero": "Acción",
+      "director": "Chad Stahelski",
+      "rating": 7.4,
+      "sinopsis": "Un legendario asesino retirado vuelve a la acción para vengar el robo de su auto y la muerte de su perro.",
+      "duracion": 101,
+      "poster": "/img/peliculas/p46.jpg"
+    },
+    {
+      "id": 47,
+      "titulo": "Amélie",
+      "año": 2001,
+      "genero": "Comedia",
+      "director": "Jean-Pierre Jeunet",
+      "rating": 8.3,
+      "sinopsis": "Una joven parisina decide dedicar su vida a hacer felices a los demás de forma anónima.",
+      "duracion": 122,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Am%C3%A9lie"
+    },
+    {
+      "id": 48,
+      "titulo": "El Pianista",
+      "año": 2002,
+      "genero": "Drama",
+      "director": "Roman Polanski",
+      "rating": 8.5,
+      "sinopsis": "Un brillante pianista judío polaco lucha por sobrevivir en Varsovia durante la Segunda Guerra Mundial.",
+      "duracion": 150,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=El%20Pianista"
+    },
+    {
+      "id": 49,
+      "titulo": "Kill Bill: Volumen 1",
+      "año": 2003,
+      "genero": "Acción",
+      "director": "Quentin Tarantino",
+      "rating": 8.2,
+      "sinopsis": "Una asesina despierta de un coma y emprende una venganza contra su antiguo equipo que la traicionó.",
+      "duracion": 111,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Kill%20Bill%3A%20Volumen%201"
+    },
+    {
+      "id": 50,
+      "titulo": "Star Wars: Una Nueva Esperanza",
+      "año": 1977,
+      "genero": "Ciencia Ficción",
+      "director": "George Lucas",
+      "rating": 8.6,
+      "sinopsis": "Un joven granjero se une a un grupo de rebeldes para rescatar a una princesa y derrotar al Imperio Galáctico.",
+      "duracion": 121,
+      "poster": "/img/peliculas/p50.jpg"
+    }
+  ],
+  "indice_por_genero": {
+    "Acción": [
+      5,
+      13,
+      23,
+      29,
+      46,
+      49
+    ],
+    "Animación": [
+      4,
+      14,
+      20,
+      24,
+      27,
+      32,
+      39,
+      44
+    ],
+    "Aventura": [
+      16,
+      42
+    ],
+    "Ciencia Ficción": [
+      1,
+      3,
+      9,
+      11,
+      26,
+      34,
+      36,
+      50
+    ],
+    "Comedia": [
+      33,
+      41,
+      47
+    ],
+    "Crimen": [
+      6,
+      25
+    ],
+    "Drama": [
+      2,
+      8,
+      12,
+      15,
+      22,
+      28,
+      35,
+      43,
+      45,
+      48
+    ],
+    "Fantasía": [
+      7,
+      18
+    ],
+    "Musical": [
+      30
+    ],
+    "Romance": [
+      19
+    ],
+    "Terror": [
+      21,
+      31,
+      37
+    ],
+    "Thriller": [
+      10,
+      17,
+      40
+    ],
+    "Western": [
+      38
+    ]
+  }
+}
